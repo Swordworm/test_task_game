@@ -1,1 +1,5 @@
-# test_task_game
+1. Загрузить репозиторий с помощью команды git clone https://github.com/Swordworm/test_task_game.git
+2. Запустить PyCharm
+3. В появившемся окне нажимаем Open и выбираем папку test_task2, которая находится в папке test_task_game
+4. Должен открыться проект
+5. Далее запускаем выполнение скрипта, по-умолчанию Shift + F10
